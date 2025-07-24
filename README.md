@@ -1,4 +1,4 @@
-# 🌐 CrispyCode — Responsive & Animated Web UI
+# 🌐 CrispyCode — Responsive & Animated Web Design
 
 It is a fully responsive and animated web project built using HTML, CSS, and JavaScript. 
 Designed with modern UI/UX principles, it offers smooth animations, adaptive layouts, and a clean, polished interface across all devices.
