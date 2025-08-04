@@ -29,5 +29,7 @@ Designed with modern UI/UX principles, it offers smooth animations, adaptive lay
 ## 📸 Screenshots 
 
 <img width="1467" height="875" alt="image" src="https://github.com/user-attachments/assets/43653fe2-035c-434a-854c-8c9b65b19043" />
+<img width="1725" height="859" alt="image" src="https://github.com/user-attachments/assets/d2fd542a-0f50-45dc-97a0-e289e3f8486c" />
+
 
 
